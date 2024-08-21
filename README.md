@@ -1,1 +1,0 @@
-This is a simple To-Do List application built using HTML, CSS, and JavaScript. The application allows users to create, edit, and delete tasks. Tasks are dynamically added to the list and can be managed through the provided user interface.
