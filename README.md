@@ -1,4 +1,4 @@
-I developed a dynamic and interactive To-Do List web application using HTML, CSS, and JavaScript, with a focus on user experience and functionality. This project was designed to help users efficiently manage their tasks by providing features such as task creation, editing, deletion, and marking tasks as completed.
+TASK 1: I developed a dynamic and interactive To-Do List web application using HTML, CSS, and JavaScript, with a focus on user experience and functionality. This project was designed to help users efficiently manage their tasks by providing features such as task creation, editing, deletion, and marking tasks as completed.
 
 *Key Features:*
 
@@ -15,3 +15,11 @@ I developed a dynamic and interactive To-Do List web application using HTML, CSS
 6. *JavaScript Functionality:* JavaScript is used extensively to handle user interactions, including adding, editing, and deleting tasks, as well as updating the UI based on user actions. The use of event listeners, DOM manipulation, and condition-based rendering highlights the effective use of JavaScript in creating an interactive application.
 
 This project demonstrates my ability to build a fully functional web application, manage client-side data storage, and create an intuitive user interface that enhances user engagement and task management.
+
+
+TASK 2: A digital reflection of my personality and skills, portfolio, crafted with love using HTML, CSS, and JavaScript. This website serves as a hub for my online presence, featuring:
+
+- A showcase of my projects and achievements
+- My resume and experience
+- Technical skills and expertise
+- A glimpse into my interests and passions
